@@ -4,20 +4,21 @@
 
 Estamos contratando uma pessoa para integrar a equipe técnica da **MBS Consulting**. Temos o privilégio de conduzir todo esse processo de perto e com muito cuidado, sabemos também das frustrações e atrapalhações que o RH ou grandes empresas acabam gerando nesse caminho. Então sem requisitos sem noção, vídeos de TikTok, testes que nos tomam dias e etc. Queremos **conversar**.
 
+<br>
 
 - [Sobre a Empresa e Projetos](#Sobre-a-Empresa-e-Projetos)
-- [Sobre formato e alocação](#Sobre-formato-e-alocação)
+- [Sobre Formato e Alocação](#Sobre-formato-e-alocação)
 - [Sobre Skills e Perfis](#Sobre-Skills-e-Perfis)
 - [Sobre Experiência](#Sobre-Experiência)
 - [Sobre Formação](#Sobre-Formação)
 - [Dúvidas e Contato](#Dúvidas)
 
----
+<br>
+<br>
 
 ## Sobre a Empresa e Projetos
 
 A MBS Consulting é uma empresa de consultoria com atuação nacional, temos uma trajetória que já somam 25 anos. Nossos projetos são voltados a Cultura Organizacional, Planejamento Estratégico e Transformação Digital (licença para uso *buzzword* - e é aqui onde você irá atuar conosco).
-
 
 
 **Projetos**
@@ -50,9 +51,9 @@ Para que você possa ter uma noção do que fazemos no dia-a-dia aqui vai uma li
 
 <br>
 
-> Créditos desta seção para o pessoal do Basecamp (DHH e companhia)
+> Créditos desta seção de "trabalhos recentes" para o pessoal do Basecamp (DHH e companhia) na postagem das vagas deles.
 
-## Sobre formato e alocação
+## Sobre Formato e Alocação
 
 **Formato**
 
