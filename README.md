@@ -18,7 +18,7 @@ Estamos contratando uma pessoa para integrar a equipe técnica da **MBS Consulti
 
 ## Sobre a Empresa e Projetos
 
-A MBS Consulting é uma empresa de consultoria com atuação nacional, temos uma trajetória que já somam 25 anos. Nossos projetos são voltados a Cultura Organizacional, Planejamento Estratégico e Transformação Digital (licença para uso *buzzword* - e é aqui onde você irá atuar conosco).
+A MBS Consulting é uma empresa de consultoria com atuação nacional, temos uma trajetória que já somam 25 anos. Nossos projetos são voltados a Cultura Organizacional, Planejamento Estratégico e Transformação Digital (licença para uso de *buzzword* - e é aqui onde você irá atuar conosco).
 
 
 **Projetos**
